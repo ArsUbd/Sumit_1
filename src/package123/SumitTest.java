@@ -6,6 +6,8 @@ public class SumitTest {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Test 1");
+		
+		System.out.print("Test 2");
 
 	}
 
