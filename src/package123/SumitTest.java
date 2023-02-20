@@ -8,6 +8,8 @@ public class SumitTest {
 		System.out.print("Test 1");
 		
 		System.out.print("Test 2");
+		
+		System.out.print("Test 3");
 
 	}
 
